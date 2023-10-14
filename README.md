@@ -1,3 +1,6 @@
+## Live link
+https://652a3a8934035d7e92a43fd9--wondrous-dodol-951daf.netlify.app/
+
 ## Group by Status by priority
 ![image](https://github.com/partho2001/Kanban_dash_board/assets/42618752/d83778bb-51cd-4342-95b1-be2d47bdd018)
 
